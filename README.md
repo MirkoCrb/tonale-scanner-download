@@ -18,7 +18,7 @@ L'app si prova **gratis per 7 giorni** dal primo collegamento all'auto, con tutt
 
 - Intasamento DPF, avanzamento della rigenerazione, temperatura DPF, km dall'ultima rigenerazione, numero di rigenerazioni, pressione differenziale
 - Avviso con suono e notifica a inizio e fine rigenerazione, promemoria ogni 5 minuti, avviso se spegni il motore durante la rigenerazione
-- Schermata dedicata su Android Auto, a riquadri come i widget Uconnect; gli avvisi compaiono anche sopra Maps
+- Schermata dedicata su Android Auto in **3 stili a scelta** (Uconnect, Sportiva carbonio, Numeri grandi), uguali anche sul telefono; gli avvisi compaiono anche sopra Maps
 - Musica su Android Auto: pannello con copertina, titolo e comandi, "Cambia app" per passare tra Spotify, Amazon Music, YouTube Music e altre
 - Storico delle rigenerazioni: data, durata, grafico della temperatura, km tra una e l'altra, quelle interrotte
 - Stima dei km alla prossima rigenerazione e dei km di AdBlue rimanenti, imparate dalla tua guida
@@ -43,6 +43,7 @@ L'app si prova **gratis per 7 giorni** dal primo collegamento all'auto, con tutt
 
 | Versione | Novità |
 | --- | --- |
+| build 76 | Tre stili a scelta per Android Auto e telefono: Uconnect, Sportiva carbonio, Numeri grandi |
 | build 73 | Android Auto a riquadri stile Uconnect, pannello musica con Cambia app, arco Intasamento a colori, AdBlue riletto se all'avvio non risponde |
 | build 64 | Guida aggiornata: attivazione con la sola chiave (app uguale alla 63) |
 | build 63 | Prova gratuita di 7 giorni e attivazione con chiave legata al telaio |
