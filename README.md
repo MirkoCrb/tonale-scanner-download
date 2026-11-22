@@ -6,7 +6,7 @@ App Android gratuita per l'**Alfa Romeo Tonale diesel**: tiene d'occhio il filtr
 
 **[Scarica l'ultima versione (APK)](https://github.com/MirkoCrb/tonale-scanner-download/releases/latest)**: nella pagina, sotto *Assets*, tocca il file `TonaleScanner-NN.apk`.
 
-Per vederla su Android Auto va installata con **UnknownAuto + Shizuku** (senza root, una volta sola). Segui la guida passo passo con le immagini: **[LINK GUIDA]**
+Per vederla su Android Auto va installata con **UnknownAuto + Shizuku** (senza root, una volta sola). Segui la guida passo passo con le immagini: **[Guida di installazione (PDF)](https://github.com/MirkoCrb/tonale-scanner-download/releases/latest/download/Guida_Tonale_Scanner.pdf)**, che trovi anche tra gli *Assets* di ogni versione.
 
 > **Aggiornamenti:** installa la nuova versione sopra la vecchia, sempre con UnknownAuto. **Non disinstallare**: perderesti lo storico delle rigenerazioni e le impostazioni.
 
@@ -37,4 +37,5 @@ Per vederla su Android Auto va installata con **UnknownAuto + Shizuku** (senza r
 
 | Versione | Novità |
 | --- | --- |
+| build 59 | Guida di installazione in PDF allegata (app uguale alla 58) |
 | build 58 | Prima versione pubblica |
