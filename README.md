@@ -18,7 +18,8 @@ L'app si prova **gratis per 7 giorni** dal primo collegamento all'auto, con tutt
 
 - Intasamento DPF, avanzamento della rigenerazione, temperatura DPF, km dall'ultima rigenerazione, numero di rigenerazioni, pressione differenziale
 - Avviso con suono e notifica a inizio e fine rigenerazione, promemoria ogni 5 minuti, avviso se spegni il motore durante la rigenerazione
-- Schermata dedicata su Android Auto; gli avvisi compaiono anche sopra Maps
+- Schermata dedicata su Android Auto, a riquadri come i widget Uconnect; gli avvisi compaiono anche sopra Maps
+- Musica su Android Auto: pannello con copertina, titolo e comandi, "Cambia app" per passare tra Spotify, Amazon Music, YouTube Music e altre
 - Storico delle rigenerazioni: data, durata, grafico della temperatura, km tra una e l'altra, quelle interrotte
 - Stima dei km alla prossima rigenerazione e dei km di AdBlue rimanenti, imparate dalla tua guida
 - Livello AdBlue e tensione della batteria
@@ -35,12 +36,14 @@ L'app si prova **gratis per 7 giorni** dal primo collegamento all'auto, con tutt
 - Progetto personale, **non ufficiale** e non collegato ad Alfa Romeo o Stellantis. Si usa a proprio rischio.
 - Per leggere i dati l'app fa solo richieste di lettura: non modifica la centralina e non cancella errori.
 - Gratuita, senza pubblicità e **senza permesso di accesso a internet**: i dati restano sul telefono.
+- Il pannello musica chiede l'*Accesso alle notifiche* solo per leggere titolo e copertina del brano; è facoltativo.
 - Testata su una sola auto: segnalazioni e prove su altri motori sono benvenute nella discussione sul forum Club Alfa.
 
 ## Versioni
 
 | Versione | Novità |
 | --- | --- |
+| build 73 | Android Auto a riquadri stile Uconnect, pannello musica con Cambia app, arco Intasamento a colori, AdBlue riletto se all'avvio non risponde |
 | build 64 | Guida aggiornata: attivazione con la sola chiave (app uguale alla 63) |
 | build 63 | Prova gratuita di 7 giorni e attivazione con chiave legata al telaio |
 | build 60 | Guida aggiornata: quali adattatori funzionano (app uguale alla 58) |
