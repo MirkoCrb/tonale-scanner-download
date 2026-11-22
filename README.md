@@ -8,7 +8,7 @@ App Android gratuita per l'**Alfa Romeo Tonale diesel**: tiene d'occhio il filtr
 
 Per vederla su Android Auto va installata con **UnknownAuto + Shizuku** (senza root, una volta sola). Segui la guida passo passo con le immagini: **[Guida di installazione (PDF)](https://github.com/MirkoCrb/tonale-scanner-download/releases/latest/download/Guida_Tonale_Scanner.pdf)**, che trovi anche tra gli *Assets* di ogni versione.
 
-> **Aggiornamenti:** installa la nuova versione sopra la vecchia, sempre con UnknownAuto. **Non disinstallare**: perderesti lo storico delle rigenerazioni e le impostazioni.
+> **Aggiornamenti:** dalla build 77 l'app ti avvisa con una notifica quando esce una versione nuova. Installala sopra la vecchia, sempre con UnknownAuto. **Non disinstallare**: perderesti lo storico delle rigenerazioni e le impostazioni.
 
 ## Prova gratuita e attivazione
 
@@ -35,7 +35,7 @@ L'app si prova **gratis per 7 giorni** dal primo collegamento all'auto, con tutt
 
 - Progetto personale, **non ufficiale** e non collegato ad Alfa Romeo o Stellantis. Si usa a proprio rischio.
 - Per leggere i dati l'app fa solo richieste di lettura: non modifica la centralina e non cancella errori.
-- Gratuita, senza pubblicità e **senza permesso di accesso a internet**: i dati restano sul telefono.
+- Gratuita e senza pubblicità. **I dati restano sul telefono**: internet serve solo a controllare una volta al giorno se c'è una versione nuova (si può spegnere in *Impostazioni › Aggiornamenti*).
 - Il pannello musica chiede l'*Accesso alle notifiche* solo per leggere titolo e copertina del brano; è facoltativo.
 - Testata su una sola auto: segnalazioni e prove su altri motori sono benvenute nella discussione sul forum Club Alfa.
 
@@ -43,6 +43,7 @@ L'app si prova **gratis per 7 giorni** dal primo collegamento all'auto, con tutt
 
 | Versione | Novità |
 | --- | --- |
+| build 77 | Avviso di nuova versione dentro l'app; note delle release divise in Novità, Miglioramenti, Correzioni |
 | build 76 | Tre stili a scelta per Android Auto e telefono: Uconnect, Sportiva carbonio, Numeri grandi |
 | build 73 | Android Auto a riquadri stile Uconnect, pannello musica con Cambia app, arco Intasamento a colori, AdBlue riletto se all'avvio non risponde |
 | build 64 | Guida aggiornata: attivazione con la sola chiave (app uguale alla 63) |
