@@ -23,7 +23,7 @@ Per vederla su Android Auto va installata con **UnknownAuto + Shizuku** (senza r
 ## Cosa serve
 
 - Telefono **Android 11** o più recente (**13** o più recente per il collegamento automatico quando sali in auto)
-- Adattatore OBD **Bluetooth LE** (testata con Vgate iCar Pro BLE)
+- Adattatore OBD **Bluetooth LE (BLE)** compatibile ELM327, testata con **Vgate iCar Pro BLE**. Dovrebbe collegarsi anche a molti altri adattatori BLE, ma non sono stati provati. Gli adattatori Bluetooth "classici" e Wi-Fi **non** funzionano. Alcuni cloni economici si collegano ma non leggono i dati DPF: se ne provate uno, scrivete nel forum com'è andata.
 - **Tonale diesel**: i dati DPF sono verificati sul 1.6 MultiJet 130 CV. Gli ibridi a benzina non hanno il DPF.
 
 ## Da sapere
@@ -37,5 +37,6 @@ Per vederla su Android Auto va installata con **UnknownAuto + Shizuku** (senza r
 
 | Versione | Novità |
 | --- | --- |
+| build 60 | Guida aggiornata: quali adattatori funzionano (app uguale alla 58) |
 | build 59 | Guida di installazione in PDF allegata (app uguale alla 58) |
 | build 58 | Prima versione pubblica |
