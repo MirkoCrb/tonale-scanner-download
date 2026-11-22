@@ -10,6 +10,10 @@ Per vederla su Android Auto va installata con **UnknownAuto + Shizuku** (senza r
 
 > **Aggiornamenti:** installa la nuova versione sopra la vecchia, sempre con UnknownAuto. **Non disinstallare**: perderesti lo storico delle rigenerazioni e le impostazioni.
 
+## Prova gratuita e attivazione
+
+L'app si prova **gratis per 7 giorni** dal primo collegamento all'auto, con tutte le funzioni. Dopo, i dati sul telefono restano liberi; per continuare ad avere **avvisi sonori e Android Auto** si sostiene il progetto con una donazione su [PayPal](https://www.paypal.me/MirkoCrabargiu) e si scrive a **mirko.crb@gmail.com** indicando il telaio (VIN), che l'app mostra in *Impostazioni › Attivazione*. Si riceve una chiave valida per quella auto.
+
 ## Cosa fa
 
 - Intasamento DPF, avanzamento della rigenerazione, temperatura DPF, km dall'ultima rigenerazione, numero di rigenerazioni, pressione differenziale
@@ -37,6 +41,7 @@ Per vederla su Android Auto va installata con **UnknownAuto + Shizuku** (senza r
 
 | Versione | Novità |
 | --- | --- |
+| build 63 | Prova gratuita di 7 giorni e attivazione con chiave legata al telaio |
 | build 60 | Guida aggiornata: quali adattatori funzionano (app uguale alla 58) |
 | build 59 | Guida di installazione in PDF allegata (app uguale alla 58) |
 | build 58 | Prima versione pubblica |
