@@ -41,6 +41,7 @@ L'app si prova **gratis per 7 giorni** dal primo collegamento all'auto, con tutt
 
 | Versione | Novità |
 | --- | --- |
+| build 64 | Guida aggiornata: attivazione con la sola chiave (app uguale alla 63) |
 | build 63 | Prova gratuita di 7 giorni e attivazione con chiave legata al telaio |
 | build 60 | Guida aggiornata: quali adattatori funzionano (app uguale alla 58) |
 | build 59 | Guida di installazione in PDF allegata (app uguale alla 58) |
