@@ -19,7 +19,8 @@ L'app si prova **gratis per 7 giorni** dal primo collegamento all'auto, con tutt
 - Intasamento DPF, avanzamento della rigenerazione, temperatura DPF, km dall'ultima rigenerazione, numero di rigenerazioni, pressione differenziale
 - Avviso con suono e notifica a inizio e fine rigenerazione, promemoria ogni 5 minuti, avviso se spegni il motore durante la rigenerazione
 - Schermata dedicata su Android Auto in **3 stili a scelta** (Uconnect, Sportiva carbonio, Numeri grandi), uguali anche sul telefono; gli avvisi compaiono anche sopra Maps
-- Musica su Android Auto: pannello con copertina, titolo e comandi, "Cambia app" per passare tra Spotify, Amazon Music, YouTube Music e altre
+- **Personalizza**: 6 tipi di quadrante (Tonale, con lancetta, Classico, LED, Anello, Mezzaluna), colore e spessore dell'avanzamento, 8 sfondi o una tua foto
+- **La tua auto**: carichi una foto della tua auto e l'app toglie lo sfondo da sola
 - Storico delle rigenerazioni: data, durata, grafico della temperatura, km tra una e l'altra, quelle interrotte
 - Stima dei km alla prossima rigenerazione e dei km di AdBlue rimanenti, imparate dalla tua guida
 - Livello AdBlue e tensione della batteria
@@ -28,7 +29,7 @@ L'app si prova **gratis per 7 giorni** dal primo collegamento all'auto, con tutt
 ## Cosa serve
 
 - Telefono **Android 11** o più recente (**13** o più recente per il collegamento automatico quando sali in auto)
-- Adattatore OBD **Bluetooth LE (BLE)** compatibile ELM327, testata con **Vgate iCar Pro BLE**. Dovrebbe collegarsi anche a molti altri adattatori BLE, ma non sono stati provati. Gli adattatori Bluetooth "classici" e Wi-Fi **non** funzionano. Alcuni cloni economici si collegano ma non leggono i dati DPF: se ne provate uno, scrivete nel forum com'è andata.
+- Adattatore OBD **Bluetooth LE (BLE)** compatibile ELM327, testata con **Vgate iCar Pro BLE**, oppure un adattatore **Wi-Fi** (utile con gli AI Box). Dovrebbe collegarsi anche a molti altri adattatori, ma non sono stati provati. Gli adattatori Bluetooth "classici" **non** funzionano. Alcuni cloni economici si collegano ma non leggono i dati DPF: se ne provate uno, scrivete nel forum com'è andata.
 - **Tonale diesel**: i dati DPF sono verificati sul 1.6 MultiJet 130 CV. Gli ibridi a benzina non hanno il DPF.
 
 ## Da sapere
@@ -36,13 +37,14 @@ L'app si prova **gratis per 7 giorni** dal primo collegamento all'auto, con tutt
 - Progetto personale, **non ufficiale** e non collegato ad Alfa Romeo o Stellantis. Si usa a proprio rischio.
 - Per leggere i dati l'app fa solo richieste di lettura: non modifica la centralina e non cancella errori.
 - Gratuita e senza pubblicità. **I dati restano sul telefono**: internet serve solo a controllare una volta al giorno se c'è una versione nuova (si può spegnere in *Impostazioni › Aggiornamenti*).
-- Il pannello musica chiede l'*Accesso alle notifiche* solo per leggere titolo e copertina del brano; è facoltativo.
+- La foto della tua auto viene elaborata sul telefono e non viene inviata a nessuno.
 - Testata su una sola auto: segnalazioni e prove su altri motori sono benvenute nella discussione sul forum Club Alfa.
 
 ## Versioni
 
 | Versione | Novità |
 | --- | --- |
+| build 87 | Personalizza (quadranti, colore, spessore, sfondi, foto), La tua auto con sfondo tolto, adattatore Wi-Fi, quadranti ispirati al quadro della Tonale; tolta la musica |
 | build 77 | Avviso di nuova versione dentro l'app; note delle release divise in Novità, Miglioramenti, Correzioni |
 | build 76 | Tre stili a scelta per Android Auto e telefono: Uconnect, Sportiva carbonio, Numeri grandi |
 | build 73 | Android Auto a riquadri stile Uconnect, pannello musica con Cambia app, arco Intasamento a colori, AdBlue riletto se all'avvio non risponde |
