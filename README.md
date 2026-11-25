@@ -44,6 +44,7 @@ L'app si prova **gratis per 7 giorni** dal primo collegamento all'auto, con tutt
 
 | Versione | Novità |
 | --- | --- |
+| build 104 | Scheda Diagnosi (codici errore, batteria, AdBlue) con avvisi, rigenerazioni totali su Android Auto, stima AdBlue corretta, Wi-Fi su AI Box |
 | build 87 | Personalizza (quadranti, colore, spessore, sfondi, foto), La tua auto con sfondo tolto, adattatore Wi-Fi, quadranti ispirati al quadro della Tonale; tolta la musica |
 | build 77 | Avviso di nuova versione dentro l'app; note delle release divise in Novità, Miglioramenti, Correzioni |
 | build 76 | Tre stili a scelta per Android Auto e telefono: Uconnect, Sportiva carbonio, Numeri grandi |
