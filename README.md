@@ -18,12 +18,12 @@ L'app si prova **gratis per 7 giorni** dal primo collegamento all'auto, con tutt
 
 - Intasamento DPF, avanzamento della rigenerazione, temperatura DPF, km dall'ultima rigenerazione, numero di rigenerazioni, pressione differenziale
 - Avviso con suono e notifica a inizio e fine rigenerazione, promemoria ogni 5 minuti, avviso se spegni il motore durante la rigenerazione
-- Schermata dedicata su Android Auto in **3 stili a scelta** (Uconnect, Sportiva carbonio, Numeri grandi), uguali anche sul telefono; gli avvisi compaiono anche sopra Maps
+- Schermata dedicata su Android Auto in **6 stili a scelta** (Uconnect, Sportiva carbonio, Numeri grandi e gli sportivi Corsa, Volante F1, Livrea); gli avvisi compaiono anche sopra Maps
 - **Personalizza**: 6 tipi di quadrante (Tonale, con lancetta, Classico, LED, Anello, Mezzaluna), colore e spessore dell'avanzamento, 8 sfondi o una tua foto
 - **La tua auto**: carichi una foto della tua auto e l'app toglie lo sfondo da sola
 - Storico delle rigenerazioni: data, durata, grafico della temperatura, km tra una e l'altra, quelle interrotte
 - Stima dei km alla prossima rigenerazione e dei km di AdBlue rimanenti, imparate dalla tua guida
-- Livello AdBlue e tensione della batteria
+- Livello AdBlue, tensione della batteria e **degradazione dell'olio motore**, con avvisi
 - Backup delle impostazioni e dello storico
 
 ## Cosa serve
@@ -44,6 +44,7 @@ L'app si prova **gratis per 7 giorni** dal primo collegamento all'auto, con tutt
 
 | Versione | Novità |
 | --- | --- |
+| build 114 | Tre stili sportivi per Android Auto (Corsa, Volante F1, Livrea); degradazione dell'olio motore in Diagnosi, con avvisi e indicazione su Android Auto |
 | build 105 | Guida aggiornata: scheda Diagnosi e nuovi avvisi (app uguale alla 104) |
 | build 104 | Scheda Diagnosi (codici errore, batteria, AdBlue) con avvisi, rigenerazioni totali su Android Auto, stima AdBlue corretta, Wi-Fi su AI Box |
 | build 87 | Personalizza (quadranti, colore, spessore, sfondi, foto), La tua auto con sfondo tolto, adattatore Wi-Fi, quadranti ispirati al quadro della Tonale; tolta la musica |
