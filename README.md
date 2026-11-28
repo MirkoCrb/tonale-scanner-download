@@ -24,6 +24,8 @@ L'app si prova **gratis per 7 giorni** dal primo collegamento all'auto, con tutt
 - Storico delle rigenerazioni: data, durata, grafico della temperatura, km tra una e l'altra, quelle interrotte
 - Stima dei km alla prossima rigenerazione e dei km di AdBlue rimanenti, imparate dalla tua guida
 - Livello AdBlue, tensione della batteria e **degradazione dell'olio motore**, con avvisi
+- Si collega da sola quando accendi l'auto (o solo con Android Auto, a scelta) e si chiude quando la spegni
+- **Prova senza auto**: dati simulati per vedere come funziona anche lontano dalla macchina
 - Backup delle impostazioni e dello storico
 
 ## Cosa serve
@@ -44,6 +46,7 @@ L'app si prova **gratis per 7 giorni** dal primo collegamento all'auto, con tutt
 
 | Versione | Novità |
 | --- | --- |
+| build 135 | Prova senza auto; chiusura automatica allo spegnimento; Quando collegarsi (Subito / Solo con Android Auto); stili sportivi più leggibili; notifica fissa corretta |
 | build 114 | Tre stili sportivi per Android Auto (Corsa, Volante F1, Livrea); degradazione dell'olio motore in Diagnosi, con avvisi e indicazione su Android Auto |
 | build 105 | Guida aggiornata: scheda Diagnosi e nuovi avvisi (app uguale alla 104) |
 | build 104 | Scheda Diagnosi (codici errore, batteria, AdBlue) con avvisi, rigenerazioni totali su Android Auto, stima AdBlue corretta, Wi-Fi su AI Box |
